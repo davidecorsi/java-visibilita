@@ -1,4 +1,5 @@
 import pack1.Visibile;
+import pack2.ClasseBase;
 import pack1.Invisibile;
 
 public class Main {

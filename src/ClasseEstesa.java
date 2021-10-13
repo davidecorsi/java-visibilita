@@ -8,5 +8,6 @@ public class ClasseEstesa extends ClasseBase {
 	
 	public void usaProtected() {
 		System.out.println("x = " + x);
+		System.out.println(visibileAlleSottoClassi());
 	}
 }
